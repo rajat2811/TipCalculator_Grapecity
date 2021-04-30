@@ -1,0 +1,15 @@
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.csprojAssemblyReference.cache
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.Form1.resources
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.csproj.GenerateResource.cache
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.AssemblyInfoInputs.cache
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.AssemblyInfo.cs
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.csproj.CoreCompileInputs.cache
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\bin\Debug\netcoreapp3.1\TipCalculator_Grapecity.exe
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\bin\Debug\netcoreapp3.1\TipCalculator_Grapecity.deps.json
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\bin\Debug\netcoreapp3.1\TipCalculator_Grapecity.runtimeconfig.json
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\bin\Debug\netcoreapp3.1\TipCalculator_Grapecity.runtimeconfig.dev.json
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\bin\Debug\netcoreapp3.1\TipCalculator_Grapecity.dll
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\bin\Debug\netcoreapp3.1\TipCalculator_Grapecity.pdb
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.dll
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.pdb
+C:\Users\Rajat\source\repos\TipCalculator_Grapecity\TipCalculator_Grapecity\obj\Debug\netcoreapp3.1\TipCalculator_Grapecity.genruntimeconfig.cache
